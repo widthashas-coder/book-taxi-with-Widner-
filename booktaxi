@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - Book Taxi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <h1>Book Taxi</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<section class="container">
+    <h2>Our Services</h2>
+    <ul>
+        <li><strong>Airport Transfers:</strong> Timely pickups and drop-offs to and from airports.</li>
+        <li><strong>Local Trips:</strong> Fast, safe rides within the city.</li>
+        <li><strong>Long-Distance Rides:</strong> Comfortable travel for longer journeys.</li>
+        <li><strong>24/7 Availability:</strong> We are ready whenever you need a ride.</li>
+    </ul>
+    <a href="tel:+14073418577" class="call-now">Book Now: Call +1 (407) 341-8577</a>
+</section>
+
+<footer>
+    <div class="container">
+        <p>&copy; 2025 Book Taxi. All rights reserved.</p>
+    </div>
+</footer>
+</body>
+</html>
